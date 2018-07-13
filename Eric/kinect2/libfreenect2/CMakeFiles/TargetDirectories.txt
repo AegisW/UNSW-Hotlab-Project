@@ -1,0 +1,3 @@
+/home/eric/Desktop/pclSender/libfreenect2/CMakeFiles/edit_cache.dir
+/home/eric/Desktop/pclSender/libfreenect2/CMakeFiles/rebuild_cache.dir
+/home/eric/Desktop/pclSender/libfreenect2/CMakeFiles/Test.dir
