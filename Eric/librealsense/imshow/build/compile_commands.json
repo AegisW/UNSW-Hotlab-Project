@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/eric/Desktop/pclSender/librealsense/imshow/build",
+  "command": "/usr/bin/c++  -DOPENCV_TRAITS_ENABLE_DEPRECATED -I/home/eric/Desktop/pclSender/librealsense/include -isystem /usr/local/include -isystem /usr/local/include/opencv   -std=c++11   -o CMakeFiles/rs-imshow.dir/rs-imshow.cpp.o -c /home/eric/Desktop/pclSender/librealsense/imshow/rs-imshow.cpp",
+  "file": "/home/eric/Desktop/pclSender/librealsense/imshow/rs-imshow.cpp"
+}
+]
